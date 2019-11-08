@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Elms_NSU:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>Elms_NSU</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="springboot-registration-login-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="Elms_NSU:war exploded" />
+    </root>
+  </artifact>
+</component>
